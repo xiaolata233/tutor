@@ -45,6 +45,7 @@ class _Search_PageState extends State<Search_Page>
 
   Widget build(BuildContext context) {
     return Scaffold(
+      resizeToAvoidBottomPadding: false,
       body: Container(
         decoration: BoxDecoration(
           gradient: LinearGradient(
