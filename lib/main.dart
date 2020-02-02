@@ -2,17 +2,19 @@ import 'package:flutter/material.dart';
 import 'map.dart';
 import 'page.dart';
 import 'place_marker.dart';
+import 'chat.dart';
 
 final List<Page> _allPages = <Page>[
   MarkerIconsPage(),
   PlaceMarkerPage(),
+  ChatScreen(),
 ];
 
 class MapsDemo extends StatelessWidget {
   void _pushPage(BuildContext context, Page page) {
     Navigator.of(context).push(MaterialPageRoute<void>(
         builder: (_) => Scaffold(
-          appBar: AppBar(title: Text(page.title)),
+//          appBar: AppBar(title: Text(page.title)),
           body: page,
         )));
   }
