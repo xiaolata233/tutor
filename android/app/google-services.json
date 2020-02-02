@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520767503033",
+    "firebase_url": "https://charming-module-265106.firebaseio.com",
+    "project_id": "charming-module-265106",
+    "storage_bucket": "charming-module-265106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520767503033:android:bc9a2a9f6577addf8df968",
+        "android_client_info": {
+          "package_name": "com.ivan.i_am_rich"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520767503033-v7n9f2hdc4m9s5d9a7ifm2lqvp8qs718.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFXBEWYpPhizXVaqd7AxD8mZZSvUwBG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520767503033-v7n9f2hdc4m9s5d9a7ifm2lqvp8qs718.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
